@@ -1,5 +1,5 @@
 public class test {
-    public void testhotfix2(){
+    public void testhotfix3(){
 
     }
 }
